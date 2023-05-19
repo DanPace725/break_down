@@ -1,0 +1,6 @@
+Build a web app that takes a user input task, sends it to the OpenAI API, and returns a list of simple steps
+1. On the front-end, create a user input box using HTML and JavaScript to allow the user to enter their task.
+2. Use React as your front-end library to handle the HTTP request to your back-end server.
+3. Use Node.js as your server-side programming language to handle the HTTP request and use the OpenAI API to break down the task into simple steps.
+4. Use Supabase as your database to store user data and authenticate users.
+5. Use Vercel to host your web app and deploy your Node.js code and React front-end.
